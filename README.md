@@ -5,6 +5,6 @@ Bearing angle between two gepgraphical coordinates can be calculated using "bear
 
 
 For calculating distance between two geographic coordinates, initiliaze your position in the "GeoManager" script. From Prefab folder hold and drag GeodeticDistanceCalculator object to the sample scene, after that you can enter the second location's geographical coordinates.
-In the test folder you can test some function we wrote for comparising accruacy between distance calculation methods.
+In the test folder you can test some function we wrote for comparising accuracy between distance calculation methods.
 
 
